@@ -7,6 +7,8 @@
 
 # Tech I am familiar with
 
+<br>
+<br>
 
 
 
@@ -14,5 +16,5 @@
 
 
 
-
-[![Mani's GitHub stats](https://github-readme-stats.vercel.app/api?username=mani2001&show_icons=true&theme=merko)](https://github.com/mani2001/github-readme-stats)
+[![Mani's GitHub stats](https://github-readme-stats.vercel.app/api?username=mani2001&show_icons=true&theme=merko&hide=stars)](https://github.com/mani2001/github-readme-stats)
+<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mani2001&theme=merko)
