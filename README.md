@@ -11,6 +11,7 @@
 <img src="https://github.com/mani2001/mani2001/blob/main/androidstudio.svg" width=50><img src="https://github.com/mani2001/mani2001/blob/main/r.svg" width=50><img src="https://github.com/mani2001/mani2001/blob/main/java.svg" width=50><img src="https://github.com/mani2001/mani2001/blob/main/html5.svg" width=50><img src="https://github.com/mani2001/mani2001/blob/main/css3.svg" width=50><img src="https://github.com/mani2001/mani2001/blob/main/solidity.svg" width=50><img src="https://github.com/mani2001/mani2001/blob/main/googlecolab.svg" width=50>
 <br>
 <br>
-
+<br>
+# Stats
 [![Mani's GitHub stats](https://github-readme-stats.vercel.app/api?username=mani2001&show_icons=true&theme=merko&hide=stars)](https://github.com/mani2001/github-readme-stats)
 <br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mani2001&theme=merko)
