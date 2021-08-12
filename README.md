@@ -8,7 +8,12 @@
 # Tech I am familiar with
 <img src="https://github.com/mani2001/mani2001/blob/main/python.svg" width=50> <img src="https://github.com/mani2001/mani2001/blob/main/tensorflow.svg" width=50> <img src="https://github.com/mani2001/mani2001/blob/main/ethereum.svg" width=50> <img src="https://github.com/mani2001/mani2001/blob/main/bitcoin.svg" width=50> <img src="https://github.com/mani2001/mani2001/blob/main/rust.svg" width=50><img src="https://github.com/mani2001/mani2001/blob/main/c.svg" width=50><img src="https://github.com/mani2001/mani2001/blob/main/cplusplus.svg" width=50>
 <br>
-<img src="https://github.com/mani2001/mani2001/blob/main/androidstudio.svg" width=50><img src="https://github.com/mani2001/mani2001/blob/main/r.svg" width=50>
+<img src="https://github.com/mani2001/mani2001/blob/main/androidstudio.svg" width=50><img src="https://github.com/mani2001/mani2001/blob/main/r.svg" width=50><img src="https://github.com/mani2001/mani2001/blob/main/java.svg" width=50><img src="https://github.com/mani2001/mani2001/blob/main/html5.svg" width=50><img src="https://github.com/mani2001/mani2001/blob/main/css3.svg" width=50><img src="https://github.com/mani2001/mani2001/blob/main/solidity.svg" width=50><img src="https://github.com/mani2001/mani2001/blob/main/googlecolab.svg" width=50>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
