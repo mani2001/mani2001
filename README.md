@@ -2,6 +2,7 @@
 
 * Machine Learning and AI systems🖥
 * Into exponential techonlogies📈
+* Personal Website: [link](https://mani2001.github.io)
 * you can connect with me on [Linkedin](https://www.linkedin.com/in/manikantan2001/)
 
 
